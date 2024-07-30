@@ -4,7 +4,7 @@
 <dict>
 	<key># BASE EFI INTEL 13th RAPTOR LAKE (doest not support iGPU) - DEBUG Version</key>
 	<string></string>
-	<key># BY: https://github.com/EntusiastadomacOS</key>
+	<key># BY: https://luananalistadeti.netlify.app/</key>
 	<string></string>
 	<key>ACPI</key>
 	<dict>
